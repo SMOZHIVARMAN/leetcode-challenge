@@ -27,14 +27,18 @@ I believe that **consistency is the key to mastery**. By uploading my solutions:
 ---
 
 ## 📂 Repository Structure
+
+```text
 leetcode-challenge/
-├── Easy/ 
-├── Medium/ 
-├── Hard/ 
-├── Problem_of_the_day/ 
+├── Easy/
+├── Medium/
+├── Hard/
+├── Problem_of_the_day/
 ├── Patterns/
-│ 
-└── README.md 
+│   
+└── README.md
+```
+
 
 
 > Each problem file contains:  
@@ -57,6 +61,17 @@ I follow the **Striver A2Z DSA Sheet**, which provides a **complete roadmap to m
 
 ---
 
+## 💻 Daily Practice Workflow
+
+1. I will solve a problem on **LeetCode**.  
+2. I Write a **well-explained solution** in the corresponding folder.  
+3. I Update the **daily log** in this README or in `Problem_of_the_day`.  
+4. Commit and push to GitHub:
+   ```bash
+   git add .
+   git commit -m "Day 1: Solved LeetCode #1 Two Sum"
+   git push
+   
 ## 🌟 Motivation
 
 - I code **every day** to improve my skills and stay consistent.  
