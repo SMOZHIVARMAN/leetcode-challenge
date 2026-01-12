@@ -96,3 +96,11 @@ I follow the **Striver A2Z DSA Sheet**, which provides a **complete roadmap to m
 Happy Coding! 💻🔥  
 I am excited to solve, learn, and grow with every problem!
 
+## 📊   LeetCode Stats  
+
+
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcode-stats.vercel.app/api?username=MOZHIVARMAN-OFFICIAL&theme=dark&hide_rank=false&hide_solved=false" alt="LeetCode Stats" />
+
+
